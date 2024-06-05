@@ -2,7 +2,7 @@
 
 window.ACCESS_POINT = "https://api.edamam.com/api/recipes/v2";
 const APP_ID = "f8d26184";
-const API_KEY = "0b808fccfeaa62feed1e3c23a6af1c3b";
+const API_KEY = "";
 const TYPE = "public";
 
 export const fetchData = async function (queries, successCallback) {
